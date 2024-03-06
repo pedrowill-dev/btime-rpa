@@ -1,0 +1,696 @@
+2024-03-06 19:55:49,523 - INFO - ====== WebDriver manager ======
+2024-03-06 19:55:50,273 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 19:55:50,527 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 19:55:50,797 - INFO - Driver [C:\Users\merem\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-06 19:55:54,729 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:55:55,121 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:55:56,157 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:55:57,252 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:55:58,240 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:55:59,242 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:56:00,307 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:56:01,107 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:56:01,131 - ERROR - An error occurred in extractNews: Message: stale element reference: stale element not found
+  (Session info: chrome=122.0.6261.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00ED8C93+51395]
+	(No symbol) [0x00E45EF1]
+	(No symbol) [0x00CFE13A]
+	(No symbol) [0x00D09DA9]
+	(No symbol) [0x00D02DD1]
+	(No symbol) [0x00D014D5]
+	(No symbol) [0x00D03E69]
+	(No symbol) [0x00D03F00]
+	(No symbol) [0x00D327F1]
+	(No symbol) [0x00D53E8C]
+	(No symbol) [0x00D2DF7E]
+	(No symbol) [0x00D54124]
+	(No symbol) [0x00D6A570]
+	(No symbol) [0x00D53C26]
+	(No symbol) [0x00D2C629]
+	(No symbol) [0x00D2D40D]
+	GetHandleVerifier [0x01256453+3711107]
+	GetHandleVerifier [0x0129583A+3970154]
+	GetHandleVerifier [0x01290B28+3950424]
+	GetHandleVerifier [0x00F89C99+776393]
+	(No symbol) [0x00E516C4]
+	(No symbol) [0x00E4C5A8]
+	(No symbol) [0x00E4C759]
+	(No symbol) [0x00E3DD80]
+	BaseThreadInitThunk [0x75327BA9+25]
+	RtlInitializeExceptionChain [0x774DBD2B+107]
+	RtlClearBits [0x774DBCAF+191]
+ -> EXTRAIR TITULO NOTICIA
+2024-03-06 19:56:01,138 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:56:01,144 - ERROR - An error occurred in extractNews: Message: stale element reference: stale element not found
+  (Session info: chrome=122.0.6261.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00ED8C93+51395]
+	(No symbol) [0x00E45EF1]
+	(No symbol) [0x00CFE13A]
+	(No symbol) [0x00D09DA9]
+	(No symbol) [0x00D02DD1]
+	(No symbol) [0x00D014D5]
+	(No symbol) [0x00D03E69]
+	(No symbol) [0x00D03F00]
+	(No symbol) [0x00D327F1]
+	(No symbol) [0x00D53E8C]
+	(No symbol) [0x00D2DF7E]
+	(No symbol) [0x00D54124]
+	(No symbol) [0x00D6A570]
+	(No symbol) [0x00D53C26]
+	(No symbol) [0x00D2C629]
+	(No symbol) [0x00D2D40D]
+	GetHandleVerifier [0x01256453+3711107]
+	GetHandleVerifier [0x0129583A+3970154]
+	GetHandleVerifier [0x01290B28+3950424]
+	GetHandleVerifier [0x00F89C99+776393]
+	(No symbol) [0x00E516C4]
+	(No symbol) [0x00E4C5A8]
+	(No symbol) [0x00E4C759]
+	(No symbol) [0x00E3DD80]
+	BaseThreadInitThunk [0x75327BA9+25]
+	RtlInitializeExceptionChain [0x774DBD2B+107]
+	RtlClearBits [0x774DBCAF+191]
+ -> EXTRAIR TITULO NOTICIA
+2024-03-06 19:56:01,151 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:56:01,671 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 19:56:01,672 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:56:01,672 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 19:56:01,683 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:56:01,683 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 19:56:01,686 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:56:01,686 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 19:56:01,694 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:56:01,694 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 19:56:01,702 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:56:01,702 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 19:57:52,476 - INFO - ====== WebDriver manager ======
+2024-03-06 19:57:53,328 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 19:57:53,637 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 19:57:53,923 - INFO - Driver [C:\Users\merem\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-06 19:57:56,652 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:57:57,560 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:57:58,218 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:57:59,349 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:58:00,104 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:58:00,104 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:58:01,364 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:58:02,114 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:58:09,882 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:58:09,888 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:58:09,888 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:58:09,889 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:58:09,910 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:59:02,017 - INFO - ====== WebDriver manager ======
+2024-03-06 19:59:02,806 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 19:59:03,121 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 19:59:03,437 - INFO - Driver [C:\Users\merem\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-06 19:59:06,728 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:59:08,183 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:59:13,080 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:59:14,746 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:59:16,311 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:59:17,980 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:59:19,077 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:59:20,652 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:59:20,664 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:59:20,669 - ERROR - An error occurred in extractNews: Message: stale element reference: stale element not found
+  (Session info: chrome=122.0.6261.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00ED8C93+51395]
+	(No symbol) [0x00E45EF1]
+	(No symbol) [0x00CFE13A]
+	(No symbol) [0x00D09DA9]
+	(No symbol) [0x00D02DD1]
+	(No symbol) [0x00D014D5]
+	(No symbol) [0x00D03E69]
+	(No symbol) [0x00D03F00]
+	(No symbol) [0x00D327F1]
+	(No symbol) [0x00D53E8C]
+	(No symbol) [0x00D2DF7E]
+	(No symbol) [0x00D54124]
+	(No symbol) [0x00D6A570]
+	(No symbol) [0x00D53C26]
+	(No symbol) [0x00D2C629]
+	(No symbol) [0x00D2D40D]
+	GetHandleVerifier [0x01256453+3711107]
+	GetHandleVerifier [0x0129583A+3970154]
+	GetHandleVerifier [0x01290B28+3950424]
+	GetHandleVerifier [0x00F89C99+776393]
+	(No symbol) [0x00E516C4]
+	(No symbol) [0x00E4C5A8]
+	(No symbol) [0x00E4C759]
+	(No symbol) [0x00E3DD80]
+	BaseThreadInitThunk [0x75327BA9+25]
+	RtlInitializeExceptionChain [0x774DBD2B+107]
+	RtlClearBits [0x774DBCAF+191]
+ -> EXTRAIR TITULO NOTICIA
+2024-03-06 19:59:20,676 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:59:20,687 - ERROR - An error occurred in extractNews: Message: stale element reference: stale element not found
+  (Session info: chrome=122.0.6261.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00ED8C93+51395]
+	(No symbol) [0x00E45EF1]
+	(No symbol) [0x00CFE13A]
+	(No symbol) [0x00D09DA9]
+	(No symbol) [0x00D02DD1]
+	(No symbol) [0x00D014D5]
+	(No symbol) [0x00D03E69]
+	(No symbol) [0x00D03F00]
+	(No symbol) [0x00D327F1]
+	(No symbol) [0x00D53E8C]
+	(No symbol) [0x00D2DF7E]
+	(No symbol) [0x00D54124]
+	(No symbol) [0x00D6A570]
+	(No symbol) [0x00D53C26]
+	(No symbol) [0x00D2C629]
+	(No symbol) [0x00D2D40D]
+	GetHandleVerifier [0x01256453+3711107]
+	GetHandleVerifier [0x0129583A+3970154]
+	GetHandleVerifier [0x01290B28+3950424]
+	GetHandleVerifier [0x00F89C99+776393]
+	(No symbol) [0x00E516C4]
+	(No symbol) [0x00E4C5A8]
+	(No symbol) [0x00E4C759]
+	(No symbol) [0x00E3DD80]
+	BaseThreadInitThunk [0x75327BA9+25]
+	RtlInitializeExceptionChain [0x774DBD2B+107]
+	RtlClearBits [0x774DBCAF+191]
+ -> EXTRAIR TITULO NOTICIA
+2024-03-06 19:59:21,184 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:59:21,193 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:59:21,200 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:59:21,209 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:59:21,216 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 19:59:42,651 - INFO - ====== WebDriver manager ======
+2024-03-06 19:59:43,468 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 19:59:43,798 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 19:59:44,111 - INFO - Driver [C:\Users\merem\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-06 19:59:48,295 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:59:49,418 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 19:59:55,382 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:00:01,019 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:00:03,370 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:00:05,752 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:00:07,892 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:00:10,225 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:00:11,020 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:00:11,027 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:00:11,027 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:00:11,037 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:00:11,037 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:00:11,043 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:00:11,043 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:00:11,051 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:00:11,051 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:00:11,053 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:00:11,059 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:00:11,066 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:00:11,068 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:00:11,070 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:00:11,070 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:01:40,783 - INFO - ====== WebDriver manager ======
+2024-03-06 20:01:41,556 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:01:41,856 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:01:42,128 - INFO - Driver [C:\Users\merem\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-06 20:01:48,172 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:01:48,522 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:01:49,609 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:01:50,437 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:01:51,342 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:01:52,554 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:01:53,621 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:01:54,570 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:01:55,310 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:01:55,320 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:01:55,323 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:01:55,333 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:01:55,333 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:01:55,340 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:01:55,340 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:01:55,348 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:01:55,349 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:01:55,352 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:01:55,356 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:01:55,387 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:01:55,387 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:01:55,394 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:01:55,396 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:05:52,725 - INFO - ====== WebDriver manager ======
+2024-03-06 20:05:53,577 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:05:53,893 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:05:54,212 - INFO - Driver [C:\Users\merem\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-06 20:05:56,776 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:05:57,932 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:05:58,712 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:05:59,461 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:06:00,652 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:06:01,318 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:06:02,101 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:06:03,347 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:06:03,369 - ERROR - An error occurred in extractNews: Message: stale element reference: stale element not found
+  (Session info: chrome=122.0.6261.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00ED8C93+51395]
+	(No symbol) [0x00E45EF1]
+	(No symbol) [0x00CFE13A]
+	(No symbol) [0x00D09DA9]
+	(No symbol) [0x00D02DD1]
+	(No symbol) [0x00D014D5]
+	(No symbol) [0x00D03E69]
+	(No symbol) [0x00D03F00]
+	(No symbol) [0x00D327F1]
+	(No symbol) [0x00D53E8C]
+	(No symbol) [0x00D2DF7E]
+	(No symbol) [0x00D54124]
+	(No symbol) [0x00D6A570]
+	(No symbol) [0x00D53C26]
+	(No symbol) [0x00D2C629]
+	(No symbol) [0x00D2D40D]
+	GetHandleVerifier [0x01256453+3711107]
+	GetHandleVerifier [0x0129583A+3970154]
+	GetHandleVerifier [0x01290B28+3950424]
+	GetHandleVerifier [0x00F89C99+776393]
+	(No symbol) [0x00E516C4]
+	(No symbol) [0x00E4C5A8]
+	(No symbol) [0x00E4C759]
+	(No symbol) [0x00E3DD80]
+	BaseThreadInitThunk [0x75327BA9+25]
+	RtlInitializeExceptionChain [0x774DBD2B+107]
+	RtlClearBits [0x774DBCAF+191]
+ -> EXTRAIR TITULO NOTICIA
+2024-03-06 20:06:03,375 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:06:04,002 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:06:04,011 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:06:04,011 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:06:04,017 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:06:04,017 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:06:04,027 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:06:04,028 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:06:04,031 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:06:04,036 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:06:04,043 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:06:04,043 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:06:04,048 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:06:04,051 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:07:46,084 - INFO - ====== WebDriver manager ======
+2024-03-06 20:07:46,839 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:07:47,134 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:07:47,401 - INFO - Driver [C:\Users\merem\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-06 20:07:51,489 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:07:52,892 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:07:53,980 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:07:54,933 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:07:55,906 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:07:56,832 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:07:58,005 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:07:59,047 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:07:59,062 - ERROR - An error occurred in extractNews: Message: stale element reference: stale element not found
+  (Session info: chrome=122.0.6261.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00ED8C93+51395]
+	(No symbol) [0x00E45EF1]
+	(No symbol) [0x00CFE13A]
+	(No symbol) [0x00D09DA9]
+	(No symbol) [0x00D02DD1]
+	(No symbol) [0x00D014D5]
+	(No symbol) [0x00D03E69]
+	(No symbol) [0x00D03F00]
+	(No symbol) [0x00D327F1]
+	(No symbol) [0x00D53E8C]
+	(No symbol) [0x00D2DF7E]
+	(No symbol) [0x00D54124]
+	(No symbol) [0x00D6A570]
+	(No symbol) [0x00D53C26]
+	(No symbol) [0x00D2C629]
+	(No symbol) [0x00D2D40D]
+	GetHandleVerifier [0x01256453+3711107]
+	GetHandleVerifier [0x0129583A+3970154]
+	GetHandleVerifier [0x01290B28+3950424]
+	GetHandleVerifier [0x00F89C99+776393]
+	(No symbol) [0x00E516C4]
+	(No symbol) [0x00E4C5A8]
+	(No symbol) [0x00E4C759]
+	(No symbol) [0x00E3DD80]
+	BaseThreadInitThunk [0x75327BA9+25]
+	RtlInitializeExceptionChain [0x774DBD2B+107]
+	RtlClearBits [0x774DBCAF+191]
+ -> EXTRAIR TITULO NOTICIA
+2024-03-06 20:07:59,065 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:07:59,636 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:07:59,641 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:07:59,643 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:07:59,648 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:07:59,649 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:07:59,656 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:07:59,656 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:07:59,662 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:07:59,662 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:07:59,668 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:07:59,668 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:07:59,672 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:07:59,672 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:08:16,865 - INFO - ====== WebDriver manager ======
+2024-03-06 20:08:17,643 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:08:17,913 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:08:18,218 - INFO - Driver [C:\Users\merem\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-06 20:08:20,809 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:08:21,751 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:08:22,786 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:08:23,797 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:08:24,869 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:08:25,555 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:08:26,675 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:08:27,713 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:08:27,755 - ERROR - An error occurred in extractNews: Message: stale element reference: stale element not found
+  (Session info: chrome=122.0.6261.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00ED8C93+51395]
+	(No symbol) [0x00E45EF1]
+	(No symbol) [0x00CFE13A]
+	(No symbol) [0x00D09DA9]
+	(No symbol) [0x00D02DD1]
+	(No symbol) [0x00D014D5]
+	(No symbol) [0x00D03E69]
+	(No symbol) [0x00D03F00]
+	(No symbol) [0x00D327F1]
+	(No symbol) [0x00D53E8C]
+	(No symbol) [0x00D2DF7E]
+	(No symbol) [0x00D54124]
+	(No symbol) [0x00D6A570]
+	(No symbol) [0x00D53C26]
+	(No symbol) [0x00D2C629]
+	(No symbol) [0x00D2D40D]
+	GetHandleVerifier [0x01256453+3711107]
+	GetHandleVerifier [0x0129583A+3970154]
+	GetHandleVerifier [0x01290B28+3950424]
+	GetHandleVerifier [0x00F89C99+776393]
+	(No symbol) [0x00E516C4]
+	(No symbol) [0x00E4C5A8]
+	(No symbol) [0x00E4C759]
+	(No symbol) [0x00E3DD80]
+	BaseThreadInitThunk [0x75327BA9+25]
+	RtlInitializeExceptionChain [0x774DBD2B+107]
+	RtlClearBits [0x774DBCAF+191]
+ -> EXTRAIR TITULO NOTICIA
+2024-03-06 20:08:27,761 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:08:28,330 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:08:28,345 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:08:28,345 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:08:28,353 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:08:28,353 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:08:28,355 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:08:28,355 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:08:28,368 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:08:28,368 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:08:28,372 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:08:28,372 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:08:28,378 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:08:28,384 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:09:40,695 - INFO - ====== WebDriver manager ======
+2024-03-06 20:09:41,461 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:09:41,727 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:09:41,993 - INFO - Driver [C:\Users\merem\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-06 20:09:44,573 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:09:45,654 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:09:46,548 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:46,548 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:09:47,628 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:09:48,467 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:09:49,408 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:09:50,519 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:09:51,625 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:09:51,642 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:51,642 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:51,651 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:51,657 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:51,664 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:51,672 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:51,680 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:52,684 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:52,694 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:52,702 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:52,712 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:52,722 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:52,731 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:53,712 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:53,744 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:53,752 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:54,721 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 0
+2024-03-06 20:09:54,764 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:55,741 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:55,781 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:55,784 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:56,767 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:56,803 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:57,815 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:57,826 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:58,822 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:58,840 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:58,850 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:58,858 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:58,863 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:59,832 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:09:59,891 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:10:00,847 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:10:00,852 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:10:00,903 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:10:01,861 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:10:01,883 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:10:01,895 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:10:01,895 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:10:01,901 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:10:01,910 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:10:01,921 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:10:01,921 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:10:01,928 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:10:01,928 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:10:53,655 - INFO - ====== WebDriver manager ======
+2024-03-06 20:10:54,415 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:10:54,731 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:10:54,993 - INFO - Driver [C:\Users\merem\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-06 20:10:57,798 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:10:58,775 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:10:59,867 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:11:00,733 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:11:01,651 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:11:02,722 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:11:05,251 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:11:06,464 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:11:06,480 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:06,492 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:06,498 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:06,501 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:06,510 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:06,514 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:06,522 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:07,538 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:07,546 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:07,550 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:07,562 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:07,565 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:07,573 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:07,578 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:08,591 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:08,591 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:08,601 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:09,617 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:10,647 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:10,657 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:10,665 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:10,671 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:10,678 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:10,684 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:11,632 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:11,697 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:12,712 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:12,719 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:13,725 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:13,737 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:13,742 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:13,753 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:14,763 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:14,768 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:15,760 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:15,784 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:16,738 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:11:16,751 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:11:16,756 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:11:16,766 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:11:16,777 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:11:16,782 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:16,782 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:11:16,791 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:11:16,797 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:16,797 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:11:16,797 - ERROR - An error occurred in write_to_csv: write_to_csv() got an unexpected keyword argument 'news_items' -> GERAR AS NOTICIAS EM CSV
+2024-03-06 20:11:41,779 - INFO - ====== WebDriver manager ======
+2024-03-06 20:11:42,523 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:11:42,777 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:11:43,032 - INFO - Driver [C:\Users\merem\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-06 20:11:45,579 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:11:46,792 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:11:47,845 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:11:48,584 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:11:49,748 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:11:50,499 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:11:51,726 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:11:52,877 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:11:52,899 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:52,905 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:52,910 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:52,916 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:52,922 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:52,929 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:52,941 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:53,965 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:53,971 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:53,981 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:53,985 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:53,991 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:53,999 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:55,007 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:56,022 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:57,030 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:57,030 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:58,049 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:59,064 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:59,074 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:59,087 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:59,096 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:11:59,108 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:12:00,096 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:12:00,119 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:12:01,130 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:12:01,135 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:12:01,147 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:12:01,151 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:12:02,166 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:12:02,170 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:12:02,180 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:12:03,142 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:12:03,150 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:12:03,159 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:12:03,167 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:12:03,176 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:12:03,184 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:12:03,184 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:12:03,184 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:12:03,197 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:12:03,197 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:12:03,197 - INFO - write_to_csv() executed successfully. -> GERAR AS NOTICIAS EM CSV - SUCESSO
+2024-03-06 20:13:17,698 - INFO - ====== WebDriver manager ======
+2024-03-06 20:13:18,484 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:13:18,752 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:13:19,019 - INFO - Driver [C:\Users\merem\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-06 20:13:24,519 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:13:25,544 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:13:25,804 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:13:26,862 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:13:27,799 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:13:28,763 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:13:30,029 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:13:31,070 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:13:31,086 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:31,101 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:31,110 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:31,117 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:31,127 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:31,135 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:31,145 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:32,144 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:33,168 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:34,177 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:35,189 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:35,197 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:35,205 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:36,219 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:36,226 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:37,238 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:37,250 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:38,256 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:38,264 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:38,272 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:39,284 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:39,289 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:39,296 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:39,301 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:40,318 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:40,323 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:40,332 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:40,336 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:41,303 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:13:41,311 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:13:41,319 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:13:41,330 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:13:41,335 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:13:41,343 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:13:41,353 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:41,353 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:13:41,358 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:13:41,358 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:13:41,361 - INFO - write_to_csv() executed successfully. -> GERAR AS NOTICIAS EM CSV - SUCESSO
+2024-03-06 20:15:43,389 - INFO - ====== WebDriver manager ======
+2024-03-06 20:15:44,191 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:15:44,505 - INFO - Get LATEST chromedriver version for google-chrome
+2024-03-06 20:15:44,769 - INFO - Driver [C:\Users\merem\.wdm\drivers\chromedriver\win64\122.0.6261.94\chromedriver-win32/chromedriver.exe] found in cache
+2024-03-06 20:15:48,042 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:15:48,899 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:15:49,564 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:15:50,640 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:15:51,683 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:15:52,729 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:15:53,825 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:15:56,634 - INFO - openGovNewsFiltered() executed successfully. -> FILTRAR NOTICIA - SUCESSO
+2024-03-06 20:15:56,652 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:56,659 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:56,665 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:56,672 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:56,680 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:56,687 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:56,694 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:57,724 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:57,734 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:57,739 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:57,749 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:57,755 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:57,759 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:57,765 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:58,781 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:58,787 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:59,794 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:15:59,806 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:00,810 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:00,825 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:00,833 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:00,842 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:00,842 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:00,857 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:01,872 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:01,883 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:01,887 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:01,892 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:02,924 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:02,934 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:03,895 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:03,940 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:04,901 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:04,951 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:05,944 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:05,966 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:05,979 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:05,986 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:06,948 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:16:06,963 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:16:06,981 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:16:06,989 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:16:06,994 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:06,994 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:16:07,005 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:07,005 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:16:07,014 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:07,014 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:16:07,021 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2024-03-06 20:16:07,021 - INFO - extractNews() executed successfully. -> EXTRAIR TITULO NOTICIA - SUCESSO
+2024-03-06 20:16:07,021 - INFO - write_to_csv() executed successfully. -> GERAR AS NOTICIAS EM CSV - SUCESSO
